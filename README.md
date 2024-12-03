@@ -21,6 +21,10 @@ This repository contains the problems discussed in Algorithms Lab III-Year I-Sem
 | 10  | Implement traveling salesperson problem                            | [Exercise_10_Dynamic_programming_technique](./Exercise_10_Dynamic_programming_technique) |
 | 11  | Implement sum of subsets                                           | [Exercise_11_Backtracking_technique](./Exercise_11_Backtracking_technique)               |
 | 12  | Implement N-Queen’s problem                                        | [Exercise_12_Backtracking_technique](./Exercise_12_Backtracking_technique)               |
+| 13  | Implement Longest Common Subsequence Problem                       | [Exercise_13_Dynamic_programming_technique](./Exercise_13_Dynamic_programming_technique) |
+| 14  | Implement Heap Sort Technique                                      | [Exercise_14_Divide_and_Conquer_technique](./Exercise_14_Divide_and_Conquer_technique)   |
+| 15  | Implement B-Tree and its Operations                                | [Exercise_15_Data_Structures](./Exercise_15_Data_Structures)                             |
+| 16  | Implement AVL Trees and Operations                                 | [Exercise_16_Data_Structures](./Exercise_16_Data_Structures)                             |
 
 <div align="center">
 
